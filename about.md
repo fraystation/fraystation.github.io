@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+http://henrysung.com
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+DX plan/strategy, Product/Brand/Experince/Digital Marketing, Creative Directing
+Data Analysis
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hyunrok.sung@gmail.com](mailto:hyunrok.sung@gmail.com)
