@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Portfolio : http://henrysung.com
+Portfolio
+: http://henrysung.com
 
 ### More Information
 
